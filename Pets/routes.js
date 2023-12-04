@@ -8,22 +8,31 @@ function PetRoutes(app){
         res.json(post);
     }
 
-    // app.get("/api/pets/:id", (req,res) =>{
-    //     const {id} = req.params;
-    //     const pet = Database.pets.find( (p) =>  p._id === id );
-    //     if(!pet){
-    //         res.status(404).send("404 Pet not Found!");
-    //         return;
-    //     }
-    //     res.send(pet);
-    // } )
 
-    const updatePost = async (req,res) => {
-        const {postId} = req.params;
-        const status = await dao.updatePost(postId, req.body);
-        res.json(status);
 
-    }
+    // const updatePost = async (req,res) => {
+    //     const {postId} = req.params;
+    //     const post = req.body;
+    //     const status = await dao.updatePost(postId, post);
+    //     res.json(status);
+
+    // }
+
+    const updatePost = (req, res) => {
+        const postId = req.params.id; // Ensure this matches the named route parameter
+        const post = req.body;
+    
+        dao.updatePost(postId, post)
+            .then(status => {
+                console.log('Update status:', status);
+                res.json(status);
+            })
+            .catch(error => {
+                console.error('Update error:', error);
+                res.status(500).json({ error: error.message });
+            });
+    };
+
 
     // app.put("/api/pets/:id", (req,res) => {
     //     const {id} = req.params;
@@ -32,6 +41,14 @@ function PetRoutes(app){
     //     Database.pets = Database.pets.map( (p) => p._id === id ? {...pet} : p );
     //     res.sendStatus(204)
     // } )
+
+    // const checkingiD = async (req,res) => {
+    //     // const postId = req.params;
+    //     console.log("Check Here -> ",req.params);
+    //     res.json(req.params)
+    //     // const postData = req.body;
+    //     // console.log(`postId in the router translate to ${postId}`);
+    // }
 
     const deletePost = async (req,res) => {
         const status = await dao.deletePost(req.params.postId);
@@ -58,14 +75,10 @@ function PetRoutes(app){
         res.json(posts);
     }
 
-    // app.get("/api/pets", (req,res) => {
-    //     const pets = Database.pets;
-    //     res.json(pets)
-    // })
 
 
     app.post("/api/pets",createPost );
-    app.put("/api/pets/:id",updatePost);
+    app.put("/api/pets/:id", updatePost);
     app.delete("/api/pets/:postId", deletePost)
     app.get("/api/pets", findAllPosts);
 
