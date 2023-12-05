@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {"$oid": "654f9ec2ea7ead465908d1e3"},
+    "username": "white_wizard",
+    "password": "mithrandir42",
+    "firstName": "Gandalf",
+    "lastName": "the Grey",
+    "email": "gandalf@middleearth.com",
+    "dob": "unknown",
+    "role": "admin"
+  },
+  {
+    "_id": {"$oid": "654ff56dea7ead465908d1e4"},
+    "username": "evenstar",
+    "password": "arwen123",
+    "firstName": "Arwen",
+    "lastName": "Undómiel",
+    "email": "arwen@rivendell.com",
+    "dob": "241-03-01",
+    "role": "seller"
+  },
+  {
+    "_id": {"$oid": "654ff586ea7ead465908d1e5"},
+    "username": "lady_of_light",
+    "password": "lothlorien123",
+    "firstName": "Galadriel",
+    "lastName": "N/A",
+    "email": "galadriel@lothlorien.com",
+    "dob": "Years of the Trees",
+    "role": "seller"
+  },
+  {
+    "_id": {"$oid": "654ffdd3870c092d5441bc88"},
+    "username": "iron_man",
+    "password": "stark123",
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "email": "tony@stark.com",
+    "dob": "1970-05-29",
+    "role": "buyer"
+  },
+  {
+    "_id": {"$oid": "654ffdd3870c092d5441bc89"},
+    "username": "dark_knight",
+    "password": "wayne123",
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "email": "bruce@wayne.com",
+    "dob": "1972-02-19",
+    "role": "buyer"
+  }
+]
