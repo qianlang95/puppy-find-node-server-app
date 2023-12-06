@@ -1,3 +1,4 @@
+import "dotenv/config.js"
 import express from 'express';
 import Hello from "./hello.js"
 import cors from "cors";
@@ -5,6 +6,7 @@ import mongoose from "mongoose";
 import session from "express-session";
 import UserRoutes from "./users/routes.js";
 import FollowsRoutes from './follows/routes.js';
+import PetRoutes from "./Pets/routes.js";
 
 
 
@@ -37,6 +39,8 @@ mongoose.connect(CONNECTION_STRING, {
 Hello(app);
 UserRoutes(app);
 FollowsRoutes(app);
+PetRoutes(app)
+
 
 
 

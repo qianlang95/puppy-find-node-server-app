@@ -1,0 +1,24 @@
+[
+    { "_id": "DG101",
+      "name": "Gab", "breed": "Terrier", "type": "dog",
+      "age": "2",  "location": "Austin, TX", "description": "Playful Gab, 2 years in the making"
+    },
+    { "_id": "CT101",
+      "name": "Tabby", "breed": "Persian", "type": "cat", "age": "20",  "location": "Boston, MA", "description": "Playful and friendly needs a home asap"
+    },
+    { "_id": "DG102",
+      "name": "Heinz", "breed": "Weiner Dog", "type": "dog", "age": "2",  "location": "San Jose, CA", "description": "Will melt your heart"
+    },
+    { "_id": "CT102",
+      "name": "Galaxy", "breed": "bombay", "type": "cat", "age": "5",  "location": "Culver, CA", "description": "A little fury, but also a tornado of love"
+    },
+    { "_id": "DG103",
+      "name": "Max", "breed": "Mastiff", "type": "dog", "age": "4",  "location": "San Leandro, CA", "description": "Won't give you a break!"
+    },
+    { "_id": "CT103",
+      "name": "Isa", "breed": "Chertroux", "type": "cat", "age": "25", "location": "San Ramdon, CA", "description": "Too much cuteness to contain"
+    }
+
+
+  ]
+  
