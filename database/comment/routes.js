@@ -11,7 +11,7 @@ function CommentsRoutes(app) {
   const findCommentsByPostId = async (req, res) => {
     const { postId } = req.params;
     const comments = await dao.getCommentsByPostId(postId);
-    // console.log("****************2", comments)
+    // console.log("***************2", comments)
     res.json(comments);
   };
 
@@ -29,11 +29,34 @@ function CommentsRoutes(app) {
   };
 
 
+  const updateComment = async (req, res) => {
+    const { commentId } = req.params;
+    console.log("******commentId", commentId);
+    console.log("******req.body", req.body);
+    const status = await dao.updateCommentdesc(commentId, req.body);
+    res.json(status);
+  };
+
+  const getCommentById = async (req, res) => {
+    const { commentId } = req.params;
+    console.log("****************1", commentId)
+
+
+    const comment = await dao.findCommentsById(commentId);
+    console.log("****************2", comment)
+    res.json(comment);
+  };
+  
+
+
 
   app.get("/api/comments", findAllComments);
   app.get("/api/comments/:postId", findCommentsByPostId);
   app.post("/api/comments", createComment);
+//   note that it is comment not comments
+  app.get("/api/comment/:commentId",getCommentById)
   app.delete("/api/comments/:commentId",delComment);
+  app.put("/api/comments/:commentId", updateComment);
 
 }
 export default CommentsRoutes;

@@ -4,7 +4,14 @@ function PetRoutes(app) {
 
 
   const findAllBreeds = async (req, res) => {
+    console.log("****************");
     const breeds = await dao.findAllBreeds();
+    res.json(breeds);
+  };
+
+  const findSomeBreeds = async (req, res) => {
+    const breeds = await dao.findLimitedBreeds();
+    console.log("****************", breeds.length);
     res.json(breeds);
   };
 
@@ -30,7 +37,7 @@ function PetRoutes(app) {
 
 
 
-
+  app.get("/api/breedsLimit", findSomeBreeds);
   app.get("/api/breeds", findAllBreeds);
   app.get("/api/breedId/:breedName", getBreedIdByName);
   app.get("/api/dogs/:breedId", findBreedByDogId);
