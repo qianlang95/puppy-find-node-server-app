@@ -51,6 +51,11 @@ function PetRoutes(app){
         res.json(post);
     }
 
+    const findPostByBreedId = async (req,res) => {
+        const post = await dao.findPostByBreedId(req.params.breedId);
+        res.json(post);
+    }
+
 
 
     app.post("/api/pets",createPost );
@@ -58,6 +63,7 @@ function PetRoutes(app){
     app.delete("/api/pets/:postId", deletePost)
     app.get("/api/pets", findAllPosts);
     app.get("/api/posts/:postId", findPostById);
+    app.get("/api/posts/breed/:breedId", findPostByBreedId);
 
 
 
