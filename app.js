@@ -7,6 +7,12 @@ import session from "express-session";
 import UserRoutes from "./users/routes.js";
 import FollowsRoutes from './follows/routes.js';
 import PetRoutes from "./Pets/routes.js";
+import BreedRoutes from "./Breed/routes.js";
+import LikesRoutes from './Likes/routes.js';
+import CommentsRoutes from './comment/routes.js';
+
+
+
 
 
 
@@ -18,6 +24,7 @@ mongoose.connect(CONNECTION_STRING, {
   .catch(err => console.error('MongoDB connection error:', err));
 
   const app = express();
+
   app.use(
    cors({
      credentials: true,
@@ -40,6 +47,10 @@ Hello(app);
 UserRoutes(app);
 FollowsRoutes(app);
 PetRoutes(app)
+BreedRoutes(app)
+LikesRoutes(app)
+CommentsRoutes(app)
+
 
 
 

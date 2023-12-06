@@ -1,0 +1,1914 @@
+[
+    {
+        "_id": "656a3adb7df37e4fb1023a6f",
+        "breedId": "1",
+        "name": "Affenpinscher",
+        "funFact1": "This is the most elegant breed in the world!!",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a70",
+        "breedId": "2",
+        "name": "Afghan Hound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a71",
+        "breedId": "3",
+        "name": "African Hunting Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a72",
+        "breedId": "4",
+        "name": "Airedale Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a73",
+        "breedId": "5",
+        "name": "Akbash Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a74",
+        "breedId": "6",
+        "name": "Akita",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a75",
+        "breedId": "7",
+        "name": "Alapaha Blue Blood Bulldog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a76",
+        "breedId": "8",
+        "name": "Alaskan Husky",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a77",
+        "breedId": "9",
+        "name": "Alaskan Malamute",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a78",
+        "breedId": "10",
+        "name": "American Bulldog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a79",
+        "breedId": "11",
+        "name": "American Bully",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a7a",
+        "breedId": "12",
+        "name": "American Eskimo Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a7b",
+        "breedId": "13",
+        "name": "American Eskimo Dog (Miniature)",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a7c",
+        "breedId": "14",
+        "name": "American Foxhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a7d",
+        "breedId": "15",
+        "name": "American Pit Bull Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a7e",
+        "breedId": "16",
+        "name": "American Staffordshire Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a7f",
+        "breedId": "17",
+        "name": "American Water Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a80",
+        "breedId": "18",
+        "name": "Anatolian Shepherd Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a81",
+        "breedId": "19",
+        "name": "Appenzeller Sennenhund",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a82",
+        "breedId": "21",
+        "name": "Australian Cattle Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a83",
+        "breedId": "22",
+        "name": "Australian Kelpie",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a84",
+        "breedId": "23",
+        "name": "Australian Shepherd",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a85",
+        "breedId": "24",
+        "name": "Australian Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a86",
+        "breedId": "25",
+        "name": "Azawakh",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a87",
+        "breedId": "26",
+        "name": "Barbet",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a88",
+        "breedId": "28",
+        "name": "Basenji",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a89",
+        "breedId": "29",
+        "name": "Basset Bleu de Gascogne",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a8a",
+        "breedId": "30",
+        "name": "Basset Hound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a8b",
+        "breedId": "31",
+        "name": "Beagle",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a8c",
+        "breedId": "32",
+        "name": "Bearded Collie",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a8d",
+        "breedId": "33",
+        "name": "Beauceron",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a8e",
+        "breedId": "34",
+        "name": "Bedlington Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a8f",
+        "breedId": "36",
+        "name": "Belgian Malinois",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a90",
+        "breedId": "38",
+        "name": "Belgian Tervuren",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a91",
+        "breedId": "41",
+        "name": "Bernese Mountain Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a92",
+        "breedId": "42",
+        "name": "Bichon Frise",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a93",
+        "breedId": "43",
+        "name": "Black and Tan Coonhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a94",
+        "breedId": "45",
+        "name": "Bloodhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a95",
+        "breedId": "47",
+        "name": "Bluetick Coonhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a96",
+        "breedId": "48",
+        "name": "Boerboel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a97",
+        "breedId": "50",
+        "name": "Border Collie",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a98",
+        "breedId": "51",
+        "name": "Border Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a99",
+        "breedId": "53",
+        "name": "Boston Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a9a",
+        "breedId": "54",
+        "name": "Bouvier des Flandres",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a9b",
+        "breedId": "55",
+        "name": "Boxer",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a9c",
+        "breedId": "56",
+        "name": "Boykin Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a9d",
+        "breedId": "57",
+        "name": "Bracco Italiano",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a9e",
+        "breedId": "58",
+        "name": "Briard",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023a9f",
+        "breedId": "59",
+        "name": "Brittany",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa0",
+        "breedId": "61",
+        "name": "Bull Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa1",
+        "breedId": "62",
+        "name": "Bull Terrier (Miniature)",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa2",
+        "breedId": "64",
+        "name": "Bullmastiff",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa3",
+        "breedId": "65",
+        "name": "Cairn Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa4",
+        "breedId": "67",
+        "name": "Cane Corso",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa5",
+        "breedId": "68",
+        "name": "Cardigan Welsh Corgi",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa6",
+        "breedId": "69",
+        "name": "Catahoula Leopard Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa7",
+        "breedId": "70",
+        "name": "Caucasian Shepherd (Ovcharka)",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa8",
+        "breedId": "71",
+        "name": "Cavalier King Charles Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aa9",
+        "breedId": "76",
+        "name": "Chesapeake Bay Retriever",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aaa",
+        "breedId": "78",
+        "name": "Chinese Crested",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aab",
+        "breedId": "79",
+        "name": "Chinese Shar-Pei",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aac",
+        "breedId": "80",
+        "name": "Chinook",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aad",
+        "breedId": "81",
+        "name": "Chow Chow",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aae",
+        "breedId": "84",
+        "name": "Clumber Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aaf",
+        "breedId": "86",
+        "name": "Cocker Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab0",
+        "breedId": "87",
+        "name": "Cocker Spaniel (American)",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab1",
+        "breedId": "89",
+        "name": "Coton de Tulear",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab2",
+        "breedId": "92",
+        "name": "Dalmatian",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab3",
+        "breedId": "94",
+        "name": "Doberman Pinscher",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab4",
+        "breedId": "95",
+        "name": "Dogo Argentino",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab5",
+        "breedId": "98",
+        "name": "Dutch Shepherd",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab6",
+        "breedId": "101",
+        "name": "English Setter",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab7",
+        "breedId": "102",
+        "name": "English Shepherd",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab8",
+        "breedId": "103",
+        "name": "English Springer Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ab9",
+        "breedId": "104",
+        "name": "English Toy Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aba",
+        "breedId": "105",
+        "name": "English Toy Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023abb",
+        "breedId": "107",
+        "name": "Eurasier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023abc",
+        "breedId": "108",
+        "name": "Field Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023abd",
+        "breedId": "110",
+        "name": "Finnish Lapphund",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023abe",
+        "breedId": "111",
+        "name": "Finnish Spitz",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023abf",
+        "breedId": "113",
+        "name": "French Bulldog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac0",
+        "breedId": "114",
+        "name": "German Pinscher",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac1",
+        "breedId": "115",
+        "name": "German Shepherd Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac2",
+        "breedId": "116",
+        "name": "German Shorthaired Pointer",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac3",
+        "breedId": "119",
+        "name": "Giant Schnauzer",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac4",
+        "breedId": "120",
+        "name": "Glen of Imaal Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac5",
+        "breedId": "121",
+        "name": "Golden Retriever",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac6",
+        "breedId": "123",
+        "name": "Gordon Setter",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac7",
+        "breedId": "124",
+        "name": "Great Dane",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac8",
+        "breedId": "125",
+        "name": "Great Pyrenees",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ac9",
+        "breedId": "127",
+        "name": "Greyhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aca",
+        "breedId": "128",
+        "name": "Griffon Bruxellois",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023acb",
+        "breedId": "129",
+        "name": "Harrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023acc",
+        "breedId": "130",
+        "name": "Havanese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023acd",
+        "breedId": "134",
+        "name": "Irish Setter",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ace",
+        "breedId": "135",
+        "name": "Irish Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023acf",
+        "breedId": "137",
+        "name": "Irish Wolfhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad0",
+        "breedId": "138",
+        "name": "Italian Greyhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad1",
+        "breedId": "140",
+        "name": "Japanese Chin",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad2",
+        "breedId": "141",
+        "name": "Japanese Spitz",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad3",
+        "breedId": "142",
+        "name": "Keeshond",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad4",
+        "breedId": "144",
+        "name": "Komondor",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad5",
+        "breedId": "145",
+        "name": "Kooikerhondje",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad6",
+        "breedId": "147",
+        "name": "Kuvasz",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad7",
+        "breedId": "149",
+        "name": "Labrador Retriever",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad8",
+        "breedId": "151",
+        "name": "Lagotto Romagnolo",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ad9",
+        "breedId": "153",
+        "name": "Lancashire Heeler",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ada",
+        "breedId": "155",
+        "name": "Leonberger",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023adb",
+        "breedId": "156",
+        "name": "Lhasa Apso",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023adc",
+        "breedId": "161",
+        "name": "Maltese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023add",
+        "breedId": "165",
+        "name": "Miniature American Shepherd",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ade",
+        "breedId": "167",
+        "name": "Miniature Pinscher",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023adf",
+        "breedId": "168",
+        "name": "Miniature Schnauzer",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae0",
+        "breedId": "171",
+        "name": "Newfoundland",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae1",
+        "breedId": "172",
+        "name": "Norfolk Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae2",
+        "breedId": "176",
+        "name": "Norwich Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae3",
+        "breedId": "177",
+        "name": "Nova Scotia Duck Tolling Retriever",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae4",
+        "breedId": "178",
+        "name": "Old English Sheepdog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae5",
+        "breedId": "179",
+        "name": "Olde English Bulldogge",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae6",
+        "breedId": "181",
+        "name": "Papillon",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae7",
+        "breedId": "183",
+        "name": "Pekingese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae8",
+        "breedId": "184",
+        "name": "Pembroke Welsh Corgi",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023ae9",
+        "breedId": "185",
+        "name": "Perro de Presa Canario",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aea",
+        "breedId": "188",
+        "name": "Pharaoh Hound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aeb",
+        "breedId": "189",
+        "name": "Plott",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aec",
+        "breedId": "193",
+        "name": "Pomeranian",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aed",
+        "breedId": "196",
+        "name": "Poodle (Miniature)",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aee",
+        "breedId": "197",
+        "name": "Poodle (Toy)",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aef",
+        "breedId": "201",
+        "name": "Pug",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af0",
+        "breedId": "204",
+        "name": "Puli",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af1",
+        "breedId": "205",
+        "name": "Pumi",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af2",
+        "breedId": "207",
+        "name": "Rat Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af3",
+        "breedId": "208",
+        "name": "Redbone Coonhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af4",
+        "breedId": "209",
+        "name": "Rhodesian Ridgeback",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af5",
+        "breedId": "210",
+        "name": "Rottweiler",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af6",
+        "breedId": "211",
+        "name": "Russian Toy",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af7",
+        "breedId": "212",
+        "name": "Saint Bernard",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af8",
+        "breedId": "213",
+        "name": "Saluki",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023af9",
+        "breedId": "214",
+        "name": "Samoyed",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023afa",
+        "breedId": "216",
+        "name": "Schipperke",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023afb",
+        "breedId": "218",
+        "name": "Scottish Deerhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023afc",
+        "breedId": "219",
+        "name": "Scottish Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023afd",
+        "breedId": "221",
+        "name": "Shetland Sheepdog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023afe",
+        "breedId": "222",
+        "name": "Shiba Inu",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023aff",
+        "breedId": "223",
+        "name": "Shih Tzu",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b00",
+        "breedId": "225",
+        "name": "Shiloh Shepherd",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b01",
+        "breedId": "226",
+        "name": "Siberian Husky",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b02",
+        "breedId": "228",
+        "name": "Silky Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b03",
+        "breedId": "232",
+        "name": "Smooth Fox Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b04",
+        "breedId": "233",
+        "name": "Soft Coated Wheaten Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b05",
+        "breedId": "235",
+        "name": "Spanish Water Dog",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b06",
+        "breedId": "236",
+        "name": "Spinone Italiano",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b07",
+        "breedId": "238",
+        "name": "Staffordshire Bull Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b08",
+        "breedId": "239",
+        "name": "Standard Schnauzer",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b09",
+        "breedId": "242",
+        "name": "Swedish Vallhund",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b0a",
+        "breedId": "243",
+        "name": "Thai Ridgeback",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b0b",
+        "breedId": "244",
+        "name": "Tibetan Mastiff",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b0c",
+        "breedId": "245",
+        "name": "Tibetan Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b0d",
+        "breedId": "246",
+        "name": "Tibetan Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b0e",
+        "breedId": "248",
+        "name": "Toy Fox Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b0f",
+        "breedId": "250",
+        "name": "Treeing Walker Coonhound",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b10",
+        "breedId": "251",
+        "name": "Vizsla",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b11",
+        "breedId": "253",
+        "name": "Weimaraner",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b12",
+        "breedId": "254",
+        "name": "Welsh Springer Spaniel",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b13",
+        "breedId": "256",
+        "name": "West Highland White Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b14",
+        "breedId": "257",
+        "name": "Whippet",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b15",
+        "breedId": "258",
+        "name": "White Shepherd",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b16",
+        "breedId": "259",
+        "name": "Wire Fox Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b17",
+        "breedId": "260",
+        "name": "Wirehaired Pointing Griffon",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b18",
+        "breedId": "261",
+        "name": "Wirehaired Vizsla",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b19",
+        "breedId": "262",
+        "name": "Xoloitzcuintli",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3adb7df37e4fb1023b1a",
+        "breedId": "264",
+        "name": "Yorkshire Terrier",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b1b",
+        "breedId": "abys",
+        "name": "Abyssinian",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b1c",
+        "breedId": "aege",
+        "name": "Aegean",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b1d",
+        "breedId": "abob",
+        "name": "American Bobtail",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b1e",
+        "breedId": "acur",
+        "name": "American Curl",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b1f",
+        "breedId": "asho",
+        "name": "American Shorthair",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b20",
+        "breedId": "awir",
+        "name": "American Wirehair",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b21",
+        "breedId": "amau",
+        "name": "Arabian Mau",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b22",
+        "breedId": "amis",
+        "name": "Australian Mist",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b23",
+        "breedId": "bali",
+        "name": "Balinese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b24",
+        "breedId": "bamb",
+        "name": "Bambino",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b25",
+        "breedId": "beng",
+        "name": "Bengal",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b26",
+        "breedId": "birm",
+        "name": "Birman",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b27",
+        "breedId": "bomb",
+        "name": "Bombay",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b28",
+        "breedId": "bslo",
+        "name": "British Longhair",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b29",
+        "breedId": "bsho",
+        "name": "British Shorthair",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b2a",
+        "breedId": "bure",
+        "name": "Burmese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b2b",
+        "breedId": "buri",
+        "name": "Burmilla",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b2c",
+        "breedId": "cspa",
+        "name": "California Spangled",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b2d",
+        "breedId": "ctif",
+        "name": "Chantilly-Tiffany",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b2e",
+        "breedId": "char",
+        "name": "Chartreux",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b2f",
+        "breedId": "chau",
+        "name": "Chausie",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b30",
+        "breedId": "chee",
+        "name": "Cheetoh",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b31",
+        "breedId": "csho",
+        "name": "Colorpoint Shorthair",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b32",
+        "breedId": "crex",
+        "name": "Cornish Rex",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b33",
+        "breedId": "cymr",
+        "name": "Cymric",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b34",
+        "breedId": "cypr",
+        "name": "Cyprus",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b35",
+        "breedId": "drex",
+        "name": "Devon Rex",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b36",
+        "breedId": "dons",
+        "name": "Donskoy",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b37",
+        "breedId": "lihu",
+        "name": "Dragon Li",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b38",
+        "breedId": "emau",
+        "name": "Egyptian Mau",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b39",
+        "breedId": "ebur",
+        "name": "European Burmese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b3a",
+        "breedId": "esho",
+        "name": "Exotic Shorthair",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b3b",
+        "breedId": "hbro",
+        "name": "Havana Brown",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b3c",
+        "breedId": "hima",
+        "name": "Himalayan",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b3d",
+        "breedId": "jbob",
+        "name": "Japanese Bobtail",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b3e",
+        "breedId": "java",
+        "name": "Javanese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b3f",
+        "breedId": "khao",
+        "name": "Khao Manee",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b40",
+        "breedId": "kora",
+        "name": "Korat",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b41",
+        "breedId": "kuri",
+        "name": "Kurilian",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b42",
+        "breedId": "lape",
+        "name": "LaPerm",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b43",
+        "breedId": "mcoo",
+        "name": "Maine Coon",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b44",
+        "breedId": "mala",
+        "name": "Malayan",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b45",
+        "breedId": "manx",
+        "name": "Manx",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b46",
+        "breedId": "munc",
+        "name": "Munchkin",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b47",
+        "breedId": "nebe",
+        "name": "Nebelung",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b48",
+        "breedId": "norw",
+        "name": "Norwegian Forest Cat",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b49",
+        "breedId": "ocic",
+        "name": "Ocicat",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b4a",
+        "breedId": "orie",
+        "name": "Oriental",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b4b",
+        "breedId": "pers",
+        "name": "Persian",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b4c",
+        "breedId": "pixi",
+        "name": "Pixie-bob",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b4d",
+        "breedId": "raga",
+        "name": "Ragamuffin",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b4e",
+        "breedId": "ragd",
+        "name": "Ragdoll",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b4f",
+        "breedId": "rblu",
+        "name": "Russian Blue",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b50",
+        "breedId": "sava",
+        "name": "Savannah",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b51",
+        "breedId": "sfol",
+        "name": "Scottish Fold",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b52",
+        "breedId": "srex",
+        "name": "Selkirk Rex",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b53",
+        "breedId": "siam",
+        "name": "Siamese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b54",
+        "breedId": "sibe",
+        "name": "Siberian",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b55",
+        "breedId": "sing",
+        "name": "Singapura",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b56",
+        "breedId": "snow",
+        "name": "Snowshoe",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b57",
+        "breedId": "soma",
+        "name": "Somali",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b58",
+        "breedId": "sphy",
+        "name": "Sphynx",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b59",
+        "breedId": "tonk",
+        "name": "Tonkinese",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b5a",
+        "breedId": "toyg",
+        "name": "Toyger",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b5b",
+        "breedId": "tang",
+        "name": "Turkish Angora",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b5c",
+        "breedId": "tvan",
+        "name": "Turkish Van",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    },
+    {
+        "_id": "656a3b517df37e4fb1023b5d",
+        "breedId": "ycho",
+        "name": "York Chocolate",
+        "funFact1": "",
+        "funFact2": "",
+        "funFact3": ""
+    }
+]

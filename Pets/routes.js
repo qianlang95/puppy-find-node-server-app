@@ -1,7 +1,7 @@
 import Database from "../Database/index.js";
 import * as dao from "./dao.js"
 
-function PetRoutes(app){
+function BreedRoutes(app){
 
     const createPost = async (req,res) => {
         const post = await dao.createPost(req.body);
@@ -70,4 +70,4 @@ function PetRoutes(app){
 
 }
 
-export default PetRoutes;
+export default BreedRoutes;
