@@ -3,9 +3,9 @@ import Hello from "./hello.js"
 import cors from "cors";
 import Comment from './comment.js';
 import mongoose from "mongoose";
-import PetRoutes from "./database/pet/routes.js";
-import LikesRoutes from './database/Likes/routes.js';
-import CommentsRoutes from './database/comment/routes.js';
+import PetRoutes from "./Breed/routes.js";
+import LikesRoutes from './Likes/routes.js';
+import CommentsRoutes from './comment/routes.js';
 
 
 
