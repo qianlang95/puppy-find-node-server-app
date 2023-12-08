@@ -56,6 +56,11 @@ function BreedRoutes(app){
         res.json(post);
     }
 
+    const findPostByUserId = async (req,res) => {
+        const post = await dao.findPostByUserId(req.params.userId);
+        res.json(post);
+    }
+
 
 
     app.post("/api/pets",createPost );
@@ -64,6 +69,8 @@ function BreedRoutes(app){
     app.get("/api/pets", findAllPosts);
     app.get("/api/posts/:postId", findPostById);
     app.get("/api/posts/breed/:breedId", findPostByBreedId);
+    // Added to retrieve all the posts by a userId
+    app.get("/api/posts/user/:userId", findPostByUserId);
 
 
 
