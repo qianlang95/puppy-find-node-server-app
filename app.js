@@ -28,7 +28,8 @@ mongoose.connect(CONNECTION_STRING, {
   app.use(
    cors({
      credentials: true,
-     origin: "http://localhost:3000",
+    //  origin: "http://localhost:3000",
+     origin: "https://main--spontaneous-palmier-84a1de.netlify.app",
 
    })
   );
